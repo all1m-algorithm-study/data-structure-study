@@ -115,5 +115,5 @@ int main() {
 	
 	printf("%d\n", delete_back(&d));
 	
-	printf("%d\n", delete_front(&d));
+	printf("%d\n", delete_front(&d)); // It's that fucking line.
 }
